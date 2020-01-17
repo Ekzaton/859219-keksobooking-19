@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Сергей Зуев](https://up.htmlacademy.ru/javascript/19/user/859219).
-* Наставник: `Неизвестно`.
+* Наставник: `Нет`.
 
 ---
 
