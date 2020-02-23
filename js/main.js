@@ -131,7 +131,7 @@ var createCardsList = function (cardsData) {
   }
 
   mapPinsElement.appendChild(cardsList);
-}
+};
 
 // Вызов
 createCardsList(getCardsData(CARD_COUNTER));
